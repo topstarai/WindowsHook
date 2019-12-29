@@ -15,7 +15,7 @@
       Based on MouseKeyHook by gmamaladze. I made some changes to to support .Net 4.0+,.Net Core 3.0+, WinForm, WPF etc. To make this project not to depend on System.Windows.Forms, some codes are from Microsoft which files are under system.Windows.Forms. I changed original namepsace to System.Windows.Hook.
     </description>
     <summary>This is an extension to the WindowsHook library which allows you to observe keyboard and mouse evnets in reactive manner using Rx.Net (System.Reactive) extensions.</summary>
-    <copyright>(c) George Mamaladze 2000-2018</copyright>
+    <copyright>(c) Mark kang 2019</copyright>
     <tags>hook, .net core, wpf, winform, global, spy,event, mouse, keyboard</tags>
     <dependencies>
       <dependency id="System.Reactive" version="4.3.2"/>

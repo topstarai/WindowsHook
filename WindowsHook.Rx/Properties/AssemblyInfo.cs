@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("System.Windows.Hook.Rx")]
 [assembly:
     AssemblyDescription(
-        "This is an extension to the MouseKeyHook library which allows you to observe keyboard and mouse venets in reactive manner using Rx.Net (System.Reactive) extensions."
+        "This is an extension to the WindowsHook library which allows you to observe keyboard and mouse venets in reactive manner using Rx.Net (System.Reactive) extensions."
     )]
 [assembly: AssemblyCopyright("(c) George Mamaladze 2000-2018")]
 [assembly: ComVisible(false)]

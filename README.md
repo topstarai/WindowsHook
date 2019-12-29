@@ -67,7 +67,7 @@ This library allows you to tap keyboard and mouse, to detect and record their ac
 
 ## How it works?
 
-This library attaches to windows global hooks, tracks keyboard and mouse clicks and movement,please note this don't support common .Net events with KeyEventArgs and MouseEventArgs. this is the difference with MouseKeyHook project. But you can still easily retrieve any information you need:
+This library attaches to windows global hooks, tracks keyboard and mouse clicks and movement,please note this don't support common .Net events with KeyEventArgs and MouseEventArgs. this is the difference with WindowsHook project. But you can still easily retrieve any information you need:
  * Mouse coordinates
  * Mouse buttons clicked
  * Mouse drag actions
