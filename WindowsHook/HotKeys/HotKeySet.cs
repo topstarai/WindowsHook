@@ -4,9 +4,9 @@
 
 using System;
 using System.Collections.Generic;
-using System.Windows.Hook.Implementation;
+using WindowsHook.Implementation;
 
-namespace System.Windows.Hook.HotKeys
+namespace WindowsHook.HotKeys
 {
     /// <summary>
     ///     An immutable set of Hot Keys that provides an event for when the set is activated.

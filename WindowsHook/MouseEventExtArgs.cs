@@ -4,9 +4,9 @@
 
 using System;
 using System.Runtime.InteropServices;
-using System.Windows.Hook.WinApi;
+using WindowsHook.WinApi;
 
-namespace System.Windows.Hook
+namespace WindowsHook
 {
     /// <summary>
     ///     Provides extended data for the MouseClickExt and MouseMoveExt events.

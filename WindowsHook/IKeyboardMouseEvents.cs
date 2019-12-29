@@ -4,7 +4,7 @@
 
 using System;
 
-namespace System.Windows.Hook
+namespace WindowsHook
 {
     /// <summary>
     ///     Provides keyboard and mouse events.

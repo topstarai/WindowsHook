@@ -2,9 +2,9 @@
 // Copyright (c) 2010-2018 George Mamaladze
 // See license.txt or https://mit-license.org/
 
-using System.Windows.Hook;
+using WindowsHook;
 
-namespace System.Windows.Hook.Rx
+namespace WindowsHook.Rx
 {
     public static class KeysExtensions
     {

@@ -4,7 +4,7 @@
 
 using System.Collections.Generic;
 
-namespace System.Windows.Hook.HotKeys
+namespace WindowsHook.HotKeys
 {
     /// <summary>
     ///     A collection of HotKeySets

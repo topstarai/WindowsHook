@@ -5,8 +5,8 @@
 using System;
 using System.Reactive.Linq;
 using System.Threading;
-using System.Windows.Hook;
-using System.Windows.Hook.Rx;
+using WindowsHook;
+using WindowsHook.Rx;
 
 namespace ConsoleHook.Rx
 {

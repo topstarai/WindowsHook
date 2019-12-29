@@ -3,8 +3,9 @@
 // See the LICENSE file in the project root for more information.
 
 
-namespace System.Windows.Hook
+namespace WindowsHook
 {
+    using System;
     using System.Collections;
     using System.Collections.Generic;
     using System.ComponentModel;

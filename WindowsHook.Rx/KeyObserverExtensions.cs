@@ -6,11 +6,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reactive.Linq;
-using System.Windows.Hook;
-using System.Windows.Hook.Implementation;
+using WindowsHook;
+using WindowsHook.Implementation;
 using srx = System.Reactive.Linq;
 
-namespace System.Windows.Hook.Rx
+namespace WindowsHook.Rx
 {
     public static class KeyObserverExtensions
     {

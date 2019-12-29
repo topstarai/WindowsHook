@@ -2,7 +2,7 @@
 // Copyright (c) 2010-2018 George Mamaladze
 // See license.txt or https://mit-license.org/
 
-namespace System.Windows.Hook.Implementation
+namespace WindowsHook.Implementation
 {
     internal static class KeysExtensions
     {

@@ -4,9 +4,9 @@
 
 using System;
 using System.Runtime.InteropServices;
-using System.Windows.Hook.WinApi;
+using WindowsHook.WinApi;
 
-namespace System.Windows.Hook.Implementation
+namespace WindowsHook.Implementation
 {
     // Because it is a P/Invoke method, 'GetSystemMetrics(int)'
     // should be defined in a class named NativeMethods, SafeNativeMethods,

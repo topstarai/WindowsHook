@@ -5,9 +5,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Windows.Hook.WinApi;
+using WindowsHook.WinApi;
 
-namespace System.Windows.Hook.Implementation
+namespace WindowsHook.Implementation
 {
     /// <summary>
     ///     Contains a snapshot of a keyboard state at certain moment and provides methods

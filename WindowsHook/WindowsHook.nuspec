@@ -26,7 +26,7 @@
       * IsKeyDown/Up.
 
       Additionally, there is a possibility to supress certain keyboard or mouse clicks, or detect special key combinations.
-      Based on MouseKeyHook by gmamaladze . I made some changes to to support .Net 4.0+,.Net Core 3.0+, WinForm, WPF etc. To make this project not to depend on System.Windows.Forms, some codes are from Microsoft which files are under system.Windows.Forms. I changed original namepsace to System.Windows.Hook.
+      Based on MouseKeyHook by gmamaladze . I made some changes to to support .Net 4.0+,.Net Core 3.0+, WinForm, WPF etc. To make this project not to depend on System.Windows.Forms, some codes are from Microsoft which files are under system.Windows.Forms. I changed original namepsace to WindowsHook.
     </description>
     <summary>
       This library allows you to capture the events of keyboard and mouse, to detect and record their activity even when an application is inactive and runs in background.

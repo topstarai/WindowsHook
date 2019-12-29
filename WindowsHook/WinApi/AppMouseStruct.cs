@@ -5,7 +5,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     /// <summary>
     ///     The AppMouseStruct structure contains information about a application-level mouse input event.

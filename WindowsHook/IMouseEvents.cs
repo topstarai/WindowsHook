@@ -4,7 +4,7 @@
 
 using System;
 
-namespace System.Windows.Hook
+namespace WindowsHook
 {
     /// <summary>
     ///     Provides all mouse events.

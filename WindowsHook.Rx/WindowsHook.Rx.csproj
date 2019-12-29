@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
-    <AssemblyName>System.Windows.Hook.Rx</AssemblyName>
-    <RootNamespace>System.Windows.Hook.Rx</RootNamespace>
+    <AssemblyName>WindowsHook.Rx</AssemblyName>
+    <RootNamespace>WindowsHook.Rx</RootNamespace>
     <TargetFrameworks>netcoreapp3.0;net46</TargetFrameworks>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>

@@ -5,7 +5,7 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("System.Windows.Hook.Rx")]
+[assembly: AssemblyTitle("WindowsHook.Rx")]
 [assembly:
     AssemblyDescription(
         "This is an extension to the WindowsHook library which allows you to observe keyboard and mouse venets in reactive manner using Rx.Net (System.Reactive) extensions."

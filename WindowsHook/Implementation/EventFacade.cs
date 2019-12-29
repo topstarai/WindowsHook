@@ -4,7 +4,7 @@
 
 using System;
 
-namespace System.Windows.Hook.Implementation
+namespace WindowsHook.Implementation
 {
     internal abstract class EventFacade : IKeyboardMouseEvents
     {

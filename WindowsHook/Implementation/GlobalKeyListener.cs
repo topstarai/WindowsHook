@@ -3,9 +3,9 @@
 // See license.txt or https://mit-license.org/
 
 using System.Collections.Generic;
-using System.Windows.Hook.WinApi;
+using WindowsHook.WinApi;
 
-namespace System.Windows.Hook.Implementation
+namespace WindowsHook.Implementation
 {
     internal class GlobalKeyListener : KeyListener
     {

@@ -4,7 +4,7 @@
 
 using System;
 
-namespace System.Windows.Hook.HotKeys
+namespace WindowsHook.HotKeys
 {
     /// <summary>
     ///     The event arguments passed when a HotKeySet's OnHotKeysDownHold event is triggered.

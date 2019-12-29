@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace System.Windows.Hook.Implementation
+namespace WindowsHook.Implementation
 {
     internal class Chord : IEnumerable<Keys>
     {

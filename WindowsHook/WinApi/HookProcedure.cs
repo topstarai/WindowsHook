@@ -4,7 +4,7 @@
 
 using System;
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     /// <summary>
     ///     The CallWndProc hook procedure is an application-defined or library-defined callback

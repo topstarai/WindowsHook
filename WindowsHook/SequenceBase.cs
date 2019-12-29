@@ -6,7 +6,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace System.Windows.Hook
+namespace WindowsHook
 {
     /// <summary>
     ///     Describes a sequence of generic objects.

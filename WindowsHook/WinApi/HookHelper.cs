@@ -6,9 +6,9 @@ using System;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
-using System.Windows.Hook.Implementation;
+using WindowsHook.Implementation;
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     internal static class HookHelper
     {

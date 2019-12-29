@@ -2,7 +2,7 @@
 // Copyright (c) 2015 George Mamaladze
 // See license.txt or https://mit-license.org/
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     internal static class Messages
     {

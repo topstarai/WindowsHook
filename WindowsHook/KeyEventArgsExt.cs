@@ -4,10 +4,10 @@
 
 using System;
 using System.Runtime.InteropServices;
-using System.Windows.Hook.Implementation;
-using System.Windows.Hook.WinApi;
+using WindowsHook.Implementation;
+using WindowsHook.WinApi;
 
-namespace System.Windows.Hook
+namespace WindowsHook
 {
     /// <summary>
     ///     Provides extended argument data for the <see cref='KeyListener.KeyDown' /> or

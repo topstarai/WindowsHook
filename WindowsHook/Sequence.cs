@@ -4,7 +4,7 @@
 
 using System.Linq;
 
-namespace System.Windows.Hook
+namespace WindowsHook
 {
     /// <summary>
     ///     Describes key or key combination sequences. e.g. Control+Z,Z

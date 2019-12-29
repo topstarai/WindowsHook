@@ -4,7 +4,7 @@
 
 using System;
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     internal class HookResult : IDisposable
     {

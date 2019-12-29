@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     internal static class HotkeysNativeMethods
     {

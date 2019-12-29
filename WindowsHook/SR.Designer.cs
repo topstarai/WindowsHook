@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace System.Windows.Hook {
+namespace WindowsHook {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace System.Windows.Hook {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("System.Windows.Hook.SR", typeof(SR).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("WindowsHook.SR", typeof(SR).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

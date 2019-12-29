@@ -4,7 +4,7 @@
 
 using System.Runtime.InteropServices;
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     /// <summary>
     ///     The KeyboardHookStruct structure contains information about a low-level keyboard input event.

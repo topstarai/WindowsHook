@@ -2,10 +2,10 @@
 // Copyright (c) 2010-2018 George Mamaladze
 // See license.txt or https://mit-license.org/
 
-using System.Windows.Hook;
-using System.Windows.Hook.Implementation;
+using WindowsHook;
+using WindowsHook.Implementation;
 
-namespace System.Windows.Hook.Rx
+namespace WindowsHook.Rx
 {
     public struct KeyEvent
     {

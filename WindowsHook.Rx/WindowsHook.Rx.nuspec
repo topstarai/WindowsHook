@@ -12,7 +12,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
       This is an extension to the WindowsHook library which allows you to observe keyboard and mouse venets in reactive manner using Rx.Net (System.Reactive) extensions.
-      Based on MouseKeyHook by gmamaladze. I made some changes to to support .Net 4.0+,.Net Core 3.0+, WinForm, WPF etc. To make this project not to depend on System.Windows.Forms, some codes are from Microsoft which files are under system.Windows.Forms. I changed original namepsace to System.Windows.Hook.
+      Based on MouseKeyHook by gmamaladze. I made some changes to to support .Net 4.0+,.Net Core 3.0+, WinForm, WPF etc. To make this project not to depend on System.Windows.Forms, some codes are from Microsoft which files are under system.Windows.Forms. I changed original namepsace to WindowsHook.
     </description>
     <summary>This is an extension to the WindowsHook library which allows you to observe keyboard and mouse evnets in reactive manner using Rx.Net (System.Reactive) extensions.</summary>
     <copyright>(c) Mark kang 2019</copyright>

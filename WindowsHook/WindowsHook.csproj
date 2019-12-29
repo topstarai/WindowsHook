@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk" DefaultTargets="Build">
   <PropertyGroup>
-    <AssemblyName>System.Windows.Hook</AssemblyName>
-    <RootNamespace>System.Windows.Hook</RootNamespace>
+    <AssemblyName>WindowsHook</AssemblyName>
+    <RootNamespace>WindowsHook</RootNamespace>
     <TargetFrameworks>netcoreapp3.0;net4</TargetFrameworks>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <PackageProjectUrl>https://github.com/topstarai/WindowsHook</PackageProjectUrl>

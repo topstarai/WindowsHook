@@ -4,7 +4,7 @@
 
 using Microsoft.Win32.SafeHandles;
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     internal class HookProcedureHandle : SafeHandleZeroOrMinusOneIsInvalid
     {

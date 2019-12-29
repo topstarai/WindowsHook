@@ -5,9 +5,9 @@
 using System;
 using System.Runtime.InteropServices;
 using System.Text;
-using System.Windows.Hook.Implementation;
+using WindowsHook.Implementation;
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     internal static class KeyboardNativeMethods
     {

@@ -4,7 +4,7 @@
 
 using System.Runtime.InteropServices;
 
-namespace System.Windows.Hook.WinApi
+namespace WindowsHook.WinApi
 {
     /// <summary>
     ///     The Point structure defines the X- and Y- coordinates of a point.

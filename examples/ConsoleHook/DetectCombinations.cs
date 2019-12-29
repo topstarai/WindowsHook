@@ -5,7 +5,7 @@
 using System;
 using System.Collections.Generic;
 using System.Threading;
-using System.Windows.Hook;
+using WindowsHook;
 
 namespace ConsoleHook
 {

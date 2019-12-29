@@ -2,9 +2,9 @@
 // Copyright (c) 2015 George Mamaladze
 // See license.txt or https://mit-license.org/
 
-using System.Windows.Hook.Implementation;
+using WindowsHook.Implementation;
 
-namespace System.Windows.Hook
+namespace WindowsHook
 {
     /// <summary>
     ///     This is the class to start with.
