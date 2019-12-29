@@ -6,6 +6,7 @@ Based on [MouseKeyHook](https://github.com/gmamaladze/globalmousekeyhook) by gma
  [nuget-badge]: https://img.shields.io/badge/nuget-v5.4.0-blue.svg
  [nuget-url]: https://www.nuget.org/packages/WindowsHook
 [![Build Status](https://intelcells.visualstudio.com/WindowsHook/_apis/build/status/topstarai.WindowsHook?branchName=master)](https://intelcells.visualstudio.com/WindowsHook/_build/latest?definitionId=1&branchName=master)
+
 ![Mouse and Keyboard Hooking Library in c#](/mouse-keyboard-hook-logo.png)
 
 ## What it does?
