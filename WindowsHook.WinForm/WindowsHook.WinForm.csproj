@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop" DefaultTargets="Build">
+  <PropertyGroup>
+    <AssemblyName>System.Windows.Hook</AssemblyName>
+    <RootNamespace>System.Windows.Hook</RootNamespace>
+    <TargetFrameworks>netcoreapp3.0;net4</TargetFrameworks>
+    <UseWindowsForms>true</UseWindowsForms>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+</Project>
