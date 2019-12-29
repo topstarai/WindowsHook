@@ -1,7 +1,7 @@
 # WindowsHook
 Based on [MouseKeyHook](https://github.com/gmamaladze/globalmousekeyhook) by gmamaladze . I made some changes to to support .Net 4.0+,.Net Core 3.0+, WinForm, WPF etc. To make this project not to depend on System.Windows.Forms, some codes are from Microsoft which files are under system.Windows.Forms. I changed original namepsace to System.Windows.Hook.
 
-[![nuget][nuget-badge]][nuget-url] [![master][master-appveyor-badge]][master-appveyor-url]
+[![nuget][nuget-badge]][nuget-url]
 
  [nuget-badge]: https://img.shields.io/badge/nuget-v5.4.0-blue.svg
  [nuget-url]: https://www.nuget.org/packages/WindowsHook
