@@ -5,6 +5,15 @@
     <RootNamespace>System.Windows.Hook</RootNamespace>
     <TargetFrameworks>netcoreapp3.0;net4</TargetFrameworks>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <PackageProjectUrl>https://github.com/topstarai/WindowsHook</PackageProjectUrl>
+    <PackageIcon>mouse-keyboard-hook-logo64x64.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryUrl>https://github.com/topstarai/WindowsHook</RepositoryUrl>
+    <Authors>Mark Kang</Authors>
+    <PackageTags>hook, .net core, wpf, winform, global, spy,event, mouse, keyboard</PackageTags>
+    <PackageId>WindowsHook</PackageId>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>README.md</PackageLicenseFile>
   </PropertyGroup>
   <ItemGroup>
     <Compile Update="SR.Designer.cs">
@@ -19,5 +28,15 @@
       <LastGenOutput>SR.Designer.cs</LastGenOutput>
       <CopyToOutputDirectory></CopyToOutputDirectory>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\mouse-keyboard-hook-logo64x64.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 </Project>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<package>
+  <metadata>
+    <id>WindowsHook</id>
+    <version>1.0.0</version>
+    <title>$title$</title>
+    <authors>Mark Kang</authors>
+    <owners>Mark Kang</owners>
+    <licenseUrl>https://github.com/topstarai/WindowsHook/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/topstarai/WindowsHook</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      This library attaches to windows global hooks, tracks keyboard and mouse clicks and movement,please note this don't support common .Net events with KeyEventArgs and MouseEventArgs. this is the difference with MouseKeyHook project. But you can still easily retrieve any information you need:
+      * Mouse coordinates
+      * Mouse buttons clicked
+      * Mouse drag actions
+      * Mouse wheel scrolls
+      * Key presses and releases
+      * Special key states
+
+      Additionally, there are `MouseEventExtArgs` and `KeyEventExtArgs` which provide further options:
+      * Input suppression
+      * Timestamp
+      * IsMouseDown/Up
+      * IsKeyDown/Up.
+
+      Additionally, there is a possibility to supress certain keyboard or mouse clicks, or detect special key combinations.
+      Based on MouseKeyHook by gmamaladze . I made some changes to to support .Net 4.0+,.Net Core 3.0+, WinForm, WPF etc. To make this project not to depend on System.Windows.Forms, some codes are from Microsoft which files are under system.Windows.Forms. I changed original namepsace to System.Windows.Hook.
+    </description>
+    <summary>
+      This library allows you to capture the events of keyboard and mouse, to detect and record their activity even when an application is inactive and runs in background.
+
+      WindowsHook currently supports .Net 4.0+, .Net Core 3.0
+    </summary>
+    <copyright>(c) Mark Kang 2019</copyright>
+    <tags>hook, .net core, wpf, winform, global, spy,event, mouse, keyboard</tags>
+    <iconUrl>https://github.com/topstarai/WindowsHook/blob/master/mouse-keyboard-hook-logo64x64.png</iconUrl>
+  </metadata>
+</package>

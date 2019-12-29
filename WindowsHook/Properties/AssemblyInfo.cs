@@ -8,8 +8,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MouseKeyHook")]
 [assembly:
     AssemblyDescription(
-        "This library allows you to tap keyboard and mouse, to detect and record their activity even when an application is inactive and runs in background."
+        "This library allows you to capture the events of keyboard and mouse, to detect and record their activity even when an application is inactive and runs in background.\r\n\r\nWindowsHook currently supports .Net 4.0+, .Net Core 3.0"
     )]
-[assembly: AssemblyCopyright("(c) George Mamaladze 2000-2018")]
+[assembly: AssemblyCopyright("(c)Mark kang2019")]
 [assembly: ComVisible(false)]
 [assembly: AssemblyVersion("5.6.0")]
